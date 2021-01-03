@@ -1,0 +1,36 @@
+div{
+	text-align: center;
+}
+div.main {
+	display: inline-block;
+	width: 400px;
+	height: 150px;
+	border: 2px solid;  
+	background-color: gray;
+
+}
+div .a {
+	display: inline-block;
+	width: 60px;
+	height: 15px; 
+	border-left:2px solid;
+	border-bottom:2px solid;
+	background-color: pink;
+
+}
+div .b{
+	display: inline-block;
+	width: 60px;
+	height: 15px; 
+	border-left:2px solid;
+	border-bottom:2px solid;
+	background-color: red;
+}
+div .c {
+	display: inline-block;
+	width: 60px;
+	height: 15px; 
+	border-left:2px solid;
+	border-bottom:2px solid;
+	background-color: yellow;
+}
